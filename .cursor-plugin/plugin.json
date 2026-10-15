@@ -1,0 +1,13 @@
+{
+  "name": "hugging-bay",
+  "description": "Search open models, read license labels, and get hosted file links and SHA-256 hashes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hugging Bay"
+  },
+  "homepage": "https://huggingbay.xyz",
+  "repository": "https://github.com/barneywohl/hugging-bay-plugin",
+  "keywords": ["models", "mcp", "gguf", "sha256"],
+  "logo": "assets/icon-512.png",
+  "mcpServers": "mcp.json"
+}
